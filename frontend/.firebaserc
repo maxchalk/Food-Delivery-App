@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "fooddelivery-66bb4",
+    "Food Delivery": "fir-demo-project",
+    "delivery": "fooddelivery-66bb4"
+  },
+  "targets": {},
+  "etags": {}
+}
